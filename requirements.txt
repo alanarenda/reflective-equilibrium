@@ -1,0 +1,14 @@
+# Core dependencies
+together>=1.0.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# Evaluation dependencies
+rouge-score>=0.1.2
+
+# Dataset dependencies
+datasets>=2.14.0
+
+# Optional dependencies
+jupyter>=1.0.0
+notebook>=7.0.0

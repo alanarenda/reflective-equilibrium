@@ -1,0 +1,7 @@
+{
+  "num_documents": 10,
+  "rouge1_f_mean": 0.4447856621821623,
+  "rouge2_f_mean": 0.11891473541181101,
+  "rougeL_f_mean": 0.18328867980960925,
+  "qa_accuracy_mean": 0.0
+}

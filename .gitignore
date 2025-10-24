@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Large data files
+data/*.csv
+*.csv
+
+# Generated data files
+data/question_hierarchies.json
+data/sample_nested_hierarchy.json
+data/regular_generated_summaries.json
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
